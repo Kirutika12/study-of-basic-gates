@@ -64,7 +64,7 @@ Y= A⊕B
 
 **PROGRAM**
 
-module exp1(a,b,c1,c2,c3,c4,c5,c6,c7);
+```module exp1(a,b,c1,c2,c3,c4,c5,c6,c7);
 input a,b;
 output c1,c2,c3,c4,c5,c6,c7;
 not g1(c1,a);
@@ -78,7 +78,7 @@ endmodule
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:kirutika.k.r RegisterNumber: 24001080
+ Developed by:Kirutika.K.R RegisterNumber: 24001080
  
 **Logic symbol & Truthtable**
 
@@ -87,7 +87,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **RTL realization Output:** 
 
-![Screenshot 2024-11-17 192317](https://github.com/user-attachments/assets/b7bd8017-90d7-49c4-beb7-6b4875c9d17c)
+![exp1](https://github.com/user-attachments/assets/66bf0d06-643f-42ac-8e3e-f1741ba95fdf)
+
 
 
 **waveform**
