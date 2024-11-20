@@ -1,4 +1,4 @@
-![exp1](https://github.com/user-attachments/assets/4302ec68-69bc-4800-acd4-e76cc3434b7c)### study-of-basic-gates
+
 
 **AIM:** 
 
@@ -81,6 +81,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  RegisterNumber: 24001080
 
 **Logic symbol & Truthtable**
+
 ![exp1 truth table](https://github.com/user-attachments/assets/c287b2d9-6c10-4d48-a980-eaaada7350ce)
 
 
@@ -88,13 +89,16 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **RTL realization Output:** 
+
 ![exp1](https://github.com/user-attachments/assets/8efa4c5c-be9f-4618-b8bc-647ba342b866)
 
 
 
 
 **waveform**
-![Uploading Screenshot 2024-11-17 192911.png…]()
+
+![Screenshot 2024-11-17 192911](https://github.com/user-attachments/assets/0918859c-96ee-4445-84cc-b2361062ae5c)
+
 
 
 
